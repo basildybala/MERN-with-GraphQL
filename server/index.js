@@ -22,4 +22,4 @@ app.use(
 );
 
 
-app.listen(port,console.log(`Server is running on ${port}`))
+app.listen(port,console.log(`Server is running on ${port}`.red))
